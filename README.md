@@ -1,2 +1,3 @@
-# RobotXPerception
-Perception of obstacles and node to LiDar points.
+# Robot-X-YoloV5
+
+from  perception/bbox_detect import getDetection(image, plt_path=None)
